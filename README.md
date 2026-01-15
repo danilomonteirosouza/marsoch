@@ -1,1 +1,1 @@
-# marsoch
+# MARSOCH (Machine Learning Repository to Social Histories)
